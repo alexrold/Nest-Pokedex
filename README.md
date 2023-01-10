@@ -29,6 +29,12 @@ Pokedex - parte del curso de Nest
     $ docker-compose up -d
 ```
 
+5. Reconstruir la base de datos semilla
+
+```
+http://localhost:3000/api/v2/seed
+```
+
 ## Running the app
 
 ```bash
